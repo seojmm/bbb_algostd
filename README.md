@@ -7,8 +7,8 @@
  
 ## :triangular_flag_on_post: 동아리 및 알터디 공지사항
 
-
+pass
 
 ## :calendar: 비빔밥 주요 일정
 
-
+pass
