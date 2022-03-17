@@ -2,15 +2,10 @@
 
 2022 비빔밥 알고리즘 스터디입니다!
  
-## :triangular_flag_on_post: 공지사항
+## :triangular_flag_on_post: 동아리 및 알터디 공지사항
 
 
 
-## :calendar: 발행주기
+## :calendar: 비빔밥 주요 일정
 
-매월 첫째 주 수요일, 월 1회 발행
 
-## :mailbox_with_mail: 최신소식
-
-> 이전 소식들은 '연도'를 클릭하면 보실 수 있습니다.
-### 2022
