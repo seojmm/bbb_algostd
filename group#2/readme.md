@@ -12,3 +12,9 @@
 * [주차 요금 계산](https://programmers.co.kr/learn/courses/30/lessons/92341)
 * [양궁 대회](https://programmers.co.kr/learn/courses/30/lessons/92342)
 * [파괴되지 않은 건물](https://programmers.co.kr/learn/courses/30/lessons/92344)
+
+
+## 3주차 - Codeforces Round #754 (Div. 2)
+
+* [Codeforces Round #754 (Div. 2)](https://codeforces.com/contest/1605)
+
