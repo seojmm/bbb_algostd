@@ -16,7 +16,7 @@
 
 ## 3주차
 
-* [작업](https://www.acmicpc.net/problem/21937)
 * [물통](https://www.acmicpc.net/problem/2251)
-* [서울의 지하철](https://www.acmicpc.net/problem/16166)
 * [치즈](https://www.acmicpc.net/problem/2638)
+* [0 = not cute / 1 = cute](https://www.acmicpc.net/problem/10886)
+* [정ㅋ벅ㅋ](https://www.acmicpc.net/problem/1237)
