@@ -17,7 +17,7 @@
 ## 3주차
 
 * [0 = not cute / 1 = cute](https://www.acmicpc.net/problem/10886)
-* [정ㅋ벅ㅋ](https://www.acmicpc.net/problem/1237)
+* [정ㅋ벅ㅋ](https://www.acmicpc.net/problem/1237)(입력 을 잘 읽어보세요)
 
 
 ## 4주차
