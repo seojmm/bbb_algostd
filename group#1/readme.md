@@ -25,3 +25,9 @@
 * [세수정렬](https://www.acmicpc.net/problem/2752)
 * [나는 누구인가](https://www.acmicpc.net/problem/15733)
 
+
+## 5주차
+
+* [제리와 톰](https://www.acmicpc.net/problem/16430)
+* [개](https://www.acmicpc.net/problem/10172)
+
