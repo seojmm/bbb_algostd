@@ -30,3 +30,9 @@
 
 * [제리와 톰](https://www.acmicpc.net/problem/16430)
 * [개](https://www.acmicpc.net/problem/10172)
+
+
+## 6주차
+
+* [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)
+* [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)
