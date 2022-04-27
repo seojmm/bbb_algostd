@@ -31,3 +31,8 @@
 * [제리와 톰](https://www.acmicpc.net/problem/16430)
 * [개](https://www.acmicpc.net/problem/10172)
 
+
+## 6주차
+
+* [팰린드롬 만들기](https://www.acmicpc.net/problem/1213)
+* [컵라면](https://www.acmicpc.net/problem/1781)
