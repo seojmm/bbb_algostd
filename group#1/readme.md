@@ -31,3 +31,8 @@
 * [제리와 톰](https://www.acmicpc.net/problem/16430)
 * [개](https://www.acmicpc.net/problem/10172)
 
+
+## 6주차
+
+* [팰린드롬 만들기](https://www.acmicpc.net/problem/1213)
+* [DFS와 BFS](https://www.acmicpc.net/problem/1260)
