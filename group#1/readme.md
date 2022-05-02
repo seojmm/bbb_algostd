@@ -36,3 +36,4 @@
 
 * [팰린드롬 만들기](https://www.acmicpc.net/problem/1213)
 * [DFS와 BFS](https://www.acmicpc.net/problem/1260)
+* [효율적인 해킹](https://www.acmicpc.net/problem/1325)

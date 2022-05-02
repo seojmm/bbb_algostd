@@ -36,3 +36,5 @@
 
 * [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)
 * [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)
+* [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)
+* [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)
