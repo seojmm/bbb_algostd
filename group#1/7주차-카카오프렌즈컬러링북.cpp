@@ -20,11 +20,11 @@ int dfs(int x, int y)
     {
         int nx = x + dx[i];
         int ny = y + dy[i];
-        if (nx < 0 || nx >= M || ny < 0 || ny >= N)
+        if (nx < 0 || nx >= M || ny < 0 || ny >= N) // 1. 범위 검사
             continue;
-        if (visited[nx][ny])
+        if (visited[nx][ny]) // 2. 이미 방문한 index인지 검사
             continue;
-        if (picture[x][y] != picture[nx][ny])
+        if (picture[x][y] != picture[nx][ny]) // 3. 같은 영역인지 검사
             continue;
 
         ret += dfs(nx, ny);

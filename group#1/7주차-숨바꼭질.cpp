@@ -30,17 +30,17 @@ int main()
             break;
         }
 
-        if ((0 <= tmp - 1 && tmp - 1 <= 100000) && !time[tmp - 1])
+        if ((0 <= tmp - 1 && tmp - 1 <= 100000) && !time[tmp - 1]) // X - 1
         {
             q.push(tmp - 1);
             time[tmp - 1] = time[tmp] + 1;
         }
-        if ((0 <= tmp + 1 && tmp + 1 <= 100000) && !time[tmp + 1])
+        if ((0 <= tmp + 1 && tmp + 1 <= 100000) && !time[tmp + 1]) // X + 1
         {
             q.push(tmp + 1);
             time[tmp + 1] = time[tmp] + 1;
         }
-        if ((0 <= tmp * 2 && tmp * 2 <= 100000) && !time[tmp * 2])
+        if ((0 <= tmp * 2 && tmp * 2 <= 100000) && !time[tmp * 2]) // 2*X
         {
             q.push(tmp * 2);
             time[tmp * 2] = time[tmp] + 1;
