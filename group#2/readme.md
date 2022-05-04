@@ -38,3 +38,11 @@
 * [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)
 * [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)
 * [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)
+
+
+## 7주차
+
+* [전단지 돌리기](https://www.acmicpc.net/problem/19542)
+* [아기 상어](https://www.acmicpc.net/problem/16236)
+* [Codeforces Round #784 (Div. 4)](https://codeforces.com/contest/1669)
+

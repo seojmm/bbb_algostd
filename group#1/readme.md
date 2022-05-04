@@ -37,3 +37,11 @@
 * [팰린드롬 만들기](https://www.acmicpc.net/problem/1213)
 * [DFS와 BFS](https://www.acmicpc.net/problem/1260)
 * [효율적인 해킹](https://www.acmicpc.net/problem/1325)
+
+
+## 7주차
+
+* [숨바꼭질](https://www.acmicpc.net/problem/1697)
+* [카카오프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829) (2017 카카오코드 예선)
+* [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302) (2021 카카오 채용연계형 인턴십)
+
