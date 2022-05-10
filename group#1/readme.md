@@ -49,5 +49,5 @@
 ## 8주차
 
 * [안전 영역](https://www.acmicpc.net/problem/2468)
-* [교환](https://www.acmicpc.net/problem/1039)
+* [택배](https://www.acmicpc.net/problem/1719)
 * [2xN 타일링](https://www.acmicpc.net/problem/11726) (다음주에 다룰 주제입니다. 아이디어만 떠올려보세요.)
