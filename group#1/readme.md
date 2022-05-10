@@ -45,3 +45,9 @@
 * [카카오프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829) (2017 카카오코드 예선)
 * [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302) (2021 카카오 채용연계형 인턴십)
 
+
+## 8주차
+
+* [안전 영역](https://www.acmicpc.net/problem/2468)
+* [교환](https://www.acmicpc.net/problem/1039)
+* [2xN 타일링](https://www.acmicpc.net/problem/11726) (다음주에 다룰 주제입니다. 아이디어만 떠올려보세요.)
