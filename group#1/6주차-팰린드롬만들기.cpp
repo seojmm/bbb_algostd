@@ -21,6 +21,13 @@ int main()
         arr[n]++;
     }
 
+    // arr = {2, 2, 0 ,0, ...}
+    //arr = {3, 2, 0, 0, ....}
+    // arr = {4, 2, 1, 0, 0, ...}
+
+    // AAABBCC -> A B C A C B A
+    // 홀수가 2개 이상이면 팰린드롬x ex) AAABBCCC
+
     // 홀수 2개 이상이면 return
     for (int i = 0; i < 26; i++)
     {
@@ -49,6 +56,8 @@ int main()
         }
     }
 
+    // ans = AAB
+
     if (odd == -1)
     {
         cout << ans;
@@ -58,7 +67,9 @@ int main()
     else
     {
         cout << ans;
+        // "AAB"
         ans += odd + 'A';
+        // ans = "AABC"
         reverse(ans.begin(), ans.end());
         cout << ans << endl;
     }

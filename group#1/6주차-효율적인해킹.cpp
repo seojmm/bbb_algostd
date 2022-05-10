@@ -8,6 +8,9 @@ using namespace std;
 
 int N, M, a, b, tmp, curMax = 0;
 vector<int> graph[10001];
+int graph2[10001][10001];
+// graph[1][3] = 1;
+// graph[3][1] = 1;
 int visited[10001];
 vector<int> ans;
 
@@ -49,6 +52,11 @@ int main(){
         graph[b].push_back(a);
     }
 
+    // graph[1] = vector<int> {3}
+    // graph[2] = vector<int> {3}
+    // graph[3] = vector<int> {4, 5}
+
+
     // dfs
     // for(int i=1; i<=N; i++){
     //     memset(visited, 0, sizeof(visited));
@@ -78,6 +86,7 @@ int main(){
             ans.push_back(i);
         }
     }
+
 
     for(int i=0; i<ans.size(); i++){
         printf("%d ", ans[i]);
