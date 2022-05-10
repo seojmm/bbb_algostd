@@ -1,0 +1,21 @@
+for i in range(int(input())):
+    n=int(input())
+    li=input()
+ 
+    result=[]
+    for j in range(n):
+        if li[j]=='a':
+            if j+1<n and li[j+1]=='a':
+                result.append(2)
+                break
+            elif j+2<n and li[j+2]=='a':
+                result.append(3)
+            elif j+3<n and li[j+3]=='a' and li[j+1]!=li[j+2]:
+                result.append(4)
+            elif j+6<n and li[j+6]=='a' and li[j+3]=='a' and li[j+1]==li[j+2] and li[j+4]==li[j+5] and li[j+1]!=li[j+4]:
+                result.append(7)
+ 
+    if result:
+        print(min(result))
+    else:
+        print(-1)

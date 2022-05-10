@@ -1,0 +1,19 @@
+from collections import defaultdict
+
+def solution(id_list, report, k):      
+    answer = []
+    
+    report_to_from=defaultdict(set)
+    report_from_to=defaultdict(set)
+    for i in report:
+        report_from, report_to=i.split(' ')
+        report_to_from[report_to].add(report_from)
+        report_from_to[report_from].add(report_to)
+        
+    for i in id_list:
+        count=0
+        for j in report_from_to[i]:
+            if len(report_to_from[j])>=k:
+                count+=1
+        answer.append(count)
+    return answer
