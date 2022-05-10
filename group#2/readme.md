@@ -46,3 +46,10 @@
 * [아기 상어](https://www.acmicpc.net/problem/16236)
 * [Codeforces Round #784 (Div. 4)](https://codeforces.com/contest/1669)
 
+
+## 8주차
+
+* [구멍난 케이크 자르기](https://www.acmicpc.net/problem/1355)
+* [늑대 사냥꾼](https://www.acmicpc.net/problem/2917)
+* [구슬](https://www.acmicpc.net/problem/4503)
+
