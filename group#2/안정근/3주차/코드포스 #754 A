@@ -1,0 +1,8 @@
+t=int(input())
+for i in range(t):
+    li=list(map(int,input().split()))
+    cal=li[0]+li[2]-2*li[1]
+    if cal%3==0:
+        print(0)
+    else:
+        print(1)

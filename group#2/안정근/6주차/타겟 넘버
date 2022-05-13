@@ -1,0 +1,18 @@
+answer=0
+
+def dfs(ind,value,numbers,target):
+    global answer
+    num=len(numbers)
+    if(ind==num and target==value):
+        answer+=1
+        return
+    if(ind==num):
+        return
+
+    dfs(ind+1,value+numbers[ind],numbers,target)
+    dfs(ind+1,value-numbers[ind],numbers,target)
+
+def solution(numbers, target):
+    global answer
+    dfs(0,0,numbers,target)
+    return answer

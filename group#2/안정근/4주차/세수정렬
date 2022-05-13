@@ -1,0 +1,6 @@
+n=list(map(int,input().split(' ')))
+
+n.sort()
+
+for _ in range(len(n)):
+    print(n[_])
