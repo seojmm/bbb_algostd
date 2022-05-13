@@ -17,7 +17,4 @@ import collections
 
 #     return answer[::-1]
 
-dict = collections.defaultdict(list)
-dict["ICN"].append("ATL")
-print(dict)
 
