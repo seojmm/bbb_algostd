@@ -53,3 +53,9 @@
 * [늑대 사냥꾼](https://www.acmicpc.net/problem/2917)
 * [탈옥](https://www.acmicpc.net/problem/9376)
 
+
+## 9주차
+
+* [점프](https://www.acmicpc.net/problem/1890)
+* [파일합치기](https://www.acmicpc.net/problem/11066)
+* [2020 카카오 인턴십](https://programmers.co.kr/learn/challenges)
