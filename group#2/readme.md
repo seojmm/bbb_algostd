@@ -54,7 +54,7 @@
 * [탈옥](https://www.acmicpc.net/problem/9376)
 
 
-## 9주차[
+## 9주차
 * [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)
 * [보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258)
 * [동굴 탐험](https://programmers.co.kr/learn/courses/30/lessons/67260)
