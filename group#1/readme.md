@@ -51,3 +51,12 @@
 * [안전 영역](https://www.acmicpc.net/problem/2468)
 * [택배](https://www.acmicpc.net/problem/1719)
 * [2xN 타일링](https://www.acmicpc.net/problem/11726) (다음주에 다룰 주제입니다. 아이디어만 떠올려보세요.)
+
+
+## 9주차
+
+* [제곱수의 합](https://www.acmicpc.net/problem/1699)
+* [이동하기](https://www.acmicpc.net/problem/11048)
+* [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
+* [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)
+
