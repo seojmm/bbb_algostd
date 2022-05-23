@@ -39,7 +39,7 @@ vector<int> solution(int m, int n, vector<vector<int>> graph)
     int number_of_area = 0;
     int max_size_of_one_area = 0;
     picture = graph;
-    memset(visited, 0, sizeof(visited));
+    memset(visited, 0, sizeof(visited)); // memset(배열, 초기화할값, sizeof(배열)); 초기화할값: 0 또는 char형
 
     M = m;
     N = n;
