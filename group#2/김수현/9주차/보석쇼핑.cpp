@@ -47,3 +47,5 @@ vector<int> solution(vector<string> gems) {
     sort(ans.begin(),ans.end());
     return ans[0].second;
 }
+//투포인터 현재 영역에서 모든 종류를 가지고 있으면 왼쪽을 옮기고 그렇지 않다면 오른쪽을 옮긴다. 
+//영역의 길이와 영역 벡터를 같이 넣고 정렬해서 길이가 가장 짧으면서도 앞부분의 숫자가 작은 정답이 맨 앞으로 오게한다.
