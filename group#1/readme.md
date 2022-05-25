@@ -61,8 +61,8 @@
 * [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)
 
 
-## 10주차
-## 삼성 SW 역량 테스트
+## 10주차 - 삼성 SW 역량 테스트 기출
+
 * [시험 감독](https://www.acmicpc.net/problem/13458)
 * [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
 * [뱀](https://www.acmicpc.net/problem/3190)
