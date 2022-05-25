@@ -39,7 +39,7 @@ long long solution(string e) {
         }else{
             v.push_back({'i',temp});
             temp=0;
-            if(e[i]=='-')v.push_back({'c',-3});
+            if(e[i]=='-')v.push_back({'c',-3});            //'c'는 연산자, 'i'는 피연산자
             else if(e[i]=='+')v.push_back({'c',-2});
             else v.push_back({'c',-1});
         }
@@ -52,3 +52,4 @@ long long solution(string e) {
     }while(next_permutation(a.begin(),a.end()));
     return ans;
 }
+//어떤 연산자를 먼저 계산할지 6가지 경우의 수를 모두 해본다.
