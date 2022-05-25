@@ -59,3 +59,11 @@
 * [보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258)
 * [동굴 탐험](https://programmers.co.kr/learn/courses/30/lessons/67260)
 * [전깃줄](https://www.acmicpc.net/problem/2565)
+
+
+## 10주차 - 삼성 SW 역량 테스트 기출
+* [경사로](https://www.acmicpc.net/problem/14890)
+* [주사위 윷놀이](https://www.acmicpc.net/problem/17825)
+* [큐빙](https://www.acmicpc.net/problem/5373)
+
+
