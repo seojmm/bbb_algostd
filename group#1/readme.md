@@ -65,6 +65,5 @@
 
 * [시험 감독](https://www.acmicpc.net/problem/13458)
 * [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
-* [뱀](https://www.acmicpc.net/problem/3190)
 
 
